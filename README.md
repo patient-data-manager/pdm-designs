@@ -1,6 +1,9 @@
 # Patient Data Manager (PDM)
 Design concepts and prototypes
 
+Usage agreement walkthrough (as a graphic comic):
+https://invis.io/NHU0G18PVRA#/384857984_Onboarding
+
 Find future designs in this prototype:
 https://invis.io/WETU51D4NVZ#/383506746_Welcome_MyPHR
 
