@@ -5,7 +5,7 @@ Usage agreement walkthrough (as a graphic comic):
 https://invis.io/NHU0G18PVRA#/384857984_Onboarding
 
 Find future designs in this prototype:
-https://invis.io/WETU51D4NVZ#/383506746_Welcome_MyPHR
+https://invis.io/SNTU50Z6WRF#/383506746_Welcome_MyPHR
 
 Send us feedback at _(email coming)_
 
