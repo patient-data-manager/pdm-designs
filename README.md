@@ -11,3 +11,6 @@ Send us feedback at _(email coming)_
 
 MVP demo content and script:
 https://docs.google.com/spreadsheets/d/1XVraAP24gffDXWgzy4vcFN8xxpVIT_DQuQCO1k0dTi4/edit#gid=0
+
+### License
+Patient Data Manager is [Apache 2.0](https://github.com/patient-data-manager/pdm-designs/blob/master/LICENSE.txt) licensed.
